@@ -1,0 +1,2 @@
+accessKey = AKIAQ2NSTITGJQA75QLN
+secretKey = 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
